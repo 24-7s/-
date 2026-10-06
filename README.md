@@ -4,6 +4,8 @@
 前端使用原生HTML5、CSS3、JavaScript开发，后端使用Node.js、Express、Socket.io。
 
 ## 如何使用
+请确保您的设备里安装了Node.js。
+
 初次使用需要安装相关依赖。
 
 在终端里运行 `npm install socket.io express` 即可。
@@ -19,6 +21,9 @@
 6. 相关提示
 7. 简约的界面
 8. 消息持久化，使用数据库存储
+
+## 扩展
+可以使用内网穿透工具将您的聊天室发布到公网。
 
 ## 备注
 作者：passerby.
